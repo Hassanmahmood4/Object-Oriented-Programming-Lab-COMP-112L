@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Object_Oriented_Programming_Lab_COMP_112L",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Object_Oriented_Programming_Lab_COMP_112L::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Object_Oriented_Programming_Lab_COMP_112L-Debug-7e8bcfa0d9c0e702004d.json",
+					"name" : "Object_Oriented_Programming_Lab_COMP_112L",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/macbbok/CLionProjects/Object Oriented Programming Lab-COMP-112L/cmake-build-debug",
+		"source" : "/Users/macbbok/CLionProjects/Object Oriented Programming Lab-COMP-112L"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

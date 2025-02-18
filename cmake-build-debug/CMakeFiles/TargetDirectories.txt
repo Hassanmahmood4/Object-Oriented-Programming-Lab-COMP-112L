@@ -1,0 +1,3 @@
+/Users/macbbok/CLionProjects/Object Oriented Programming Lab-COMP-112L/cmake-build-debug/CMakeFiles/Object_Oriented_Programming_Lab_COMP_112L.dir
+/Users/macbbok/CLionProjects/Object Oriented Programming Lab-COMP-112L/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macbbok/CLionProjects/Object Oriented Programming Lab-COMP-112L/cmake-build-debug/CMakeFiles/rebuild_cache.dir
